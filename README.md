@@ -34,6 +34,7 @@ Ele serve como a estrutura base de uma página, pronta para estilização com CS
 
 - Frontend Mentor - [@s7lima](https://www.frontendmentor.io/profile/s7lima)
 - GitHub - [@s7lima](https://github.com/s7lima)
+- Project link - [site](https://20-09-s7limas-projects.vercel.app/)
 
 ## Agradecimentos
 
